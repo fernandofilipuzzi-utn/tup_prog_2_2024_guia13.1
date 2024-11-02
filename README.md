@@ -1,1 +1,3 @@
-# tup_prog_2_2024_guia13.1
+# Guía 13.1  Repaso parcial  2
+
+[Enunciado](Guía 13.1  Repaso parcial  2)
